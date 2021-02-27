@@ -1,0 +1,10 @@
+body{
+    text-align: center;
+    background-color: black;
+}
+h1{
+    color: white;
+}
+body,p{
+    size: 1000px;
+}
